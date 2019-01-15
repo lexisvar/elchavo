@@ -2,7 +2,7 @@
 
 Prueba técnica de Laravel + VueJS + MySQL. 
 
-###Requerimientos:
+### Requerimientos:
 
 - composer
 - npm
